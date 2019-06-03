@@ -1,6 +1,6 @@
 name,ring,quadrant,isNew,description
-Doors,adopt,tools,TRUE,"Requirement"
-Jupyter,adopt,tools,TRUE,"Something else"
+Doors,shining,tools,TRUE,"Requirement"
+Jupyter,idea,tools,TRUE,"Something else"
 LocalStack,adopt,tools,TRUE,"Something different"
 Terraform,adopt,tools,TRUE,"For what?"
 UI dev environments,adopt,languages & frameworks,TRUE,"Check it out"
