@@ -1,9 +1,9 @@
 name,ring,quadrant,isNew,description
 ClearQuest,slacking,product,TRUE,"Link to product page:"
 Doors,shining,product,TRUE,"Requirement"
+BDC,growing,platform,TRUE,"For what?"
 TechRadar,scouting,tools,TRUE,"Something else"
-Cloud Onboarding,adopt,service,TRUE,"Something different"
-Terraform,adopt,tools,TRUE,"For what?"
+Cloud Onboarding,scouting,service,TRUE,"Something different"
 UI dev environments,adopt,languages & frameworks,TRUE,"Check it out"
 AnyStatus,trial,platforms,TRUE,"Boring"
 AVA,trial,tools,TRUE,"Fantastic"
