@@ -1,5 +1,5 @@
 name,ring,quadrant,isNew,description
-BDC,Scouting,Platforms & infrastructure,FALSE,"<a href=""https://inside-docupedia.bosch.com/confluence/display/cines4info/Bosch+Development+Cloud+-+Public"" target="_blank">Bosch Development Cloud</a>"
+BDC,Scouting,Platforms & infrastructure,FALSE,"<a href=""https://inside-docupedia.bosch.com/confluence/display/cines4info/Bosch+Development+Cloud+-+Public"">Bosch Development Cloud</a>"
 TechRadar,Growing,Tools,TRUE,Whatever
 Doors,Shining,Languages & frameworks,FALSE,Whatever
 ClearQuest,Slacking,Techniques,FALSE,Whatever
