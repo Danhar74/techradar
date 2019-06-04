@@ -1,0 +1,31 @@
+name,ring,quadrant,isNew,description
+Ad hoc Data Exchange,Growing,Platforms & infrastructure,FALSE,"<a href=""https://inside-docupedia.bosch.com/confluence/display/cines4info/Ad+hoc+Data+Exchange"">Ad hoc Data Exchange</a>"""
+ALM,Shining,Tools,FALSE,"<a href=""https://inside-docupedia.bosch.com/confluence/display/cines4info/ALM+-+Public"">ALM</a>"""
+Artifactory,Shining,Platforms & infrastructure,FALSE,"<a href=""https://inside-docupedia.bosch.com/confluence/display/cines4info/Artifactory"">Artifactory</a>"""
+Black Duck Protex,Shining,Techniques,FALSE,Whatever
+Bosch Development Cloud,Scouting,Platforms & infrastructure,FALSE,"<a href=""https://inside-docupedia.bosch.com/confluence/display/cines4info/Bosch+Development+Cloud+-+Public"">Bosch Development Cloud</a>"
+BlaaS,Growing,Tools,FALSE,"<a href=https://github.com/tonyyates/techradar/blob/master/README.md"" target=""_blank"" rel=""noopener"">Bosch Development Cloud</a>"""
+ClearCase,Slacking,Applications,FALSE,Whatever
+ClearQuest,Slacking,Applications,FALSE,Whatever
+Doors,Shining,Applications,FALSE,"<a href=""https://inside-docupedia.bosch.com/confluence/display/cines4info/Bosch+Development+Cloud+-+Public"">Bosch Development Cloud</a>"
+DTC@BGN,Growing,Platforms & infrastructure,FALSE,"<a href=https://github.com/tonyyates/techradar/blob/master/README.md"" target=""_blank"" rel=""noopener"">Bosch Development Cloud</a>"""
+eASEE 3.55,Shining,Applications,FALSE,Whatever
+Fossid,Shining,Techniques,FALSE,Whatever
+JMaaS,Shining,Platforms & infrastructure,FALSE,"<a href=""https://inside-docupedia.bosch.com/confluence/display/cines4info/Bosch+Development+Cloud+-+Public"">Bosch Development Cloud</a>"
+MS VisualStudio ALM/TFS/ Azure DevOps,Growing,Platforms & infrastructure,FLASE,"<a href=https://github.com/tonyyates/techradar/blob/master/README.md"" target=""_blank"" rel=""noopener"">Bosch Development Cloud</a>"""
+OpenDXM,Shining,Platforms & infrastructure,FALSE,Whatever
+REDaaS,Growing,Platforms & infrastructure,FALSE,Whatever
+SCAaaS,Shining,Platforms & infrastructure,FALSE,"<a href=""https://inside-docupedia.bosch.com/confluence/display/cines4info/Bosch+Development+Cloud+-+Public"">Bosch Development Cloud</a>"
+SoCoPl,Growing,Platforms & infrastructure,FLASE,"<a href=https://github.com/tonyyates/techradar/blob/master/README.md"" target=""_blank"" rel=""noopener"">Bosch Development Cloud</a>"""
+SonarQube,Growing,Platforms & infrastructure,FALSE,Whatever
+Subversion,Slacking,Platforms & infrastructure,FALSE,Whatever
+Toolbase,Slacking,Tools,FALSE,"<a href=""https://inside-docupedia.bosch.com/confluence/display/cines4info/Bosch+Development+Cloud+-+Public"">Bosch Development Cloud</a>"
+UBK Keyword List,Shining,Tools,FALSE,"<a href=https://github.com/tonyyates/techradar/blob/master/README.md"" target=""_blank"" rel=""noopener"">Bosch Development Cloud</a>"""
+vCDM,Shining,Applications,FALSE,Whatever
+TechRadar,Scouting,Tools,TRUE,Whatever
+ReqMan,Scouting,Applications,TRUE,
+iCheck,Scouting,Tools,TRUE,
+Active Batch,Shining,Tools,FALSE,
+Ansible,Growing,Tools,FALSE,
+Docker,Shining,Platforms & infrastructure,FALSE,
+RPE,,Tools,,
